@@ -1,0 +1,7 @@
+.fixed-button {
+    position: fixed;
+    bottom: 20px; /* ボタンの下端からの距離を調整 */
+    right: 20px; /* ボタンの右端からの距離を調整 */
+    z-index: 1000; /* ボタンを他の要素の上に表示 */
+}
+  
